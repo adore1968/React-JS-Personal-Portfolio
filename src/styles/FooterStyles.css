@@ -1,0 +1,32 @@
+#footer {
+  background-color: #303841;
+  padding: 5rem 2.5rem;
+  border-top: 0.4rem solid #be3144;
+}
+
+.footer__container {
+  max-width: 124rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 5rem;
+}
+
+#footer p {
+  color: #fff;
+  font-size: 2rem;
+}
+
+.footer__container-right p {
+  text-align: end;
+}
+
+@media screen and (max-width: 760px) {
+  .footer__container {
+    grid-template-columns: 1fr;
+  }
+
+  .footer__container-right p {
+    text-align: start;
+  }
+}

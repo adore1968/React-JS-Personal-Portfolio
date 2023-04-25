@@ -1,0 +1,42 @@
+#work {
+  background-color: #347;
+  min-height: 100vh;
+  padding: 15rem 2.5rem;
+}
+
+#work h2 {
+  font-size: 4rem;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+}
+
+#work .underline {
+  display: block;
+  border-bottom: 0.2rem solid #fff;
+  max-width: 65rem;
+  margin: 0 auto;
+  margin-top: 0.5rem;
+  margin-bottom: 5rem;
+}
+
+.work__projects-container {
+  max-width: 124rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3rem;
+}
+
+@media screen and (max-width: 1204px) {
+  .work__projects-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .work__projects-container {
+    width: 90%;
+    grid-template-columns: 1fr;
+  }
+}

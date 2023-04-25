@@ -1,0 +1,19 @@
+#about {
+  background-color: #222;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#about h1 {
+  font-size: 5rem;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+#about p {
+  font-size: 2.4rem;
+  color: #be3144;
+}
