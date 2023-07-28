@@ -2,7 +2,7 @@ import cocktails from "../assets/cocktails.png";
 import taskApp from "../assets/task app.png";
 import firebaseLogin from "../assets/firebase login.png";
 import toolkitCrud from "../assets/redux toolktit crud.png";
-import firestoreCrud from "../assets/firestore crud.png";
+import rickMorty from "../assets/rick and morty.png";
 import queryCrud from "../assets/query crud.png";
 
 const projectsData = [
@@ -22,7 +22,7 @@ const projectsData = [
     url: "https://adore1968.github.io/React-And-Firebase-Login/#/login",
   },
   {
-    image: toolkitCrud,
+    image: rickMorty,
     title: "React Rick and Morty REST API",
     url: "https://adore1968.github.io/React-Rick-and-Morty-REST-API/",
   },
