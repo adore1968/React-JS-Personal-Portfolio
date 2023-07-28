@@ -9,32 +9,32 @@ const projectsData = [
   {
     image: cocktails,
     title: "List of Cocktails",
-    url: "https://github.com/adore1968/Cocktails",
+    url: "https://adore1968.github.io/Cocktails-with-TS/",
   },
   {
     image: taskApp,
     title: "Task App",
-    url: "https://github.com/adore1968/Grocery-Bud",
+    url: "https://adore1968.github.io/Grocery-Bud-with-TS/",
   },
   {
     image: firebaseLogin,
     title: "React And Firebase Login",
-    url: "https://github.com/adore1968/React-And-Firebase-Login",
+    url: "https://adore1968.github.io/React-And-Firebase-Login/#/login",
   },
   {
     image: toolkitCrud,
-    title: "React And Redux Toolkit CRUD",
-    url: "https://github.com/adore1968/React-And-Redux-Toolkit-CRUD",
+    title: "React Rick and Morty REST API",
+    url: "https://adore1968.github.io/React-Rick-and-Morty-REST-API/",
   },
   {
     image: firestoreCrud,
     title: "React And Firebase Firestore CRUD",
-    url: "https://github.com/adore1968/React-And-Firebase-Firestore-CRUD",
+    url: "https://adore1968.github.io/React-And-Firebase-Firestore-CRUD/",
   },
   {
     image: queryCrud,
     title: "React And Redux Toolkit Query CRUD",
-    url: "https://github.com/adore1968/React-And-Redux-Toolkit-Query-CRUD",
+    url: "https://adore1968.github.io/CRUD-with-Redux-Toolkit-Query-and-Typescript/",
   },
 ];
 
