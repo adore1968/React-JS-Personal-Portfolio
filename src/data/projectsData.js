@@ -1,7 +1,7 @@
 import cocktails from "../assets/cocktails.png";
 import taskApp from "../assets/task app.png";
 import firebaseLogin from "../assets/firebase login.png";
-import toolkitCrud from "../assets/redux toolktit crud.png";
+import firestoreCrud from "../assets/firestore crud.png";
 import rickMorty from "../assets/rick and morty.png";
 import queryCrud from "../assets/query crud.png";
 
